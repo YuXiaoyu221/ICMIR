@@ -1,7 +1,0 @@
-# The code of the proposed isophote constraint-based cloud removal method 
-matlab vision
-
-run the "main.m", you can change the path to your data
-
-if the code is used and helpful for your research, please cite :
-https://github.com/YuXiaoyu221/ICCR, Xiaoyu Yu
