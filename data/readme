@@ -1,1 +1,3 @@
 Here are two sets of data for test
+In TestData_1, Both image I1 and image I2 are simulated with clouds;
+In TestData_2, Only image I1 is simulated with clouds, image I2 is cloud-free and used as reference image.
