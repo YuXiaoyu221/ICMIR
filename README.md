@@ -1,2 +1,3 @@
-# ICCR
-an efficient Cloud Removal method for optical satellite imagery using adaptive gradient weighting
+# CR_MGC
+an efficient cloud removal method with minimum gradient constraint for optical satellite imagery
+
