@@ -1,2 +1,2 @@
 # ICCR
-an efficient Cloud Removal method with Isophote Constraint for optical satellite imagery
+an efficient Cloud Removal method for optical satellite imagery using adaptive gradient weighting
