@@ -1,4 +1,4 @@
-function [OutputData_II,OutputData_JJ]=Whole_Image_Reconstruction_with_MinimumGradientConstraint(Img_I,I_mask,Img_J,J_mask)
+function [OutputData_II,OutputData_JJ]=Image_Cloud_Removal_with_Minimum_Gradient_Constraint(Img_I,I_mask,Img_J,J_mask)
 %%% I_mask is the cloud detection result of Img_I, where the value 255 indicates the missing area, and the value 0 is the clear area.
 %%% J_mask is the cloud detection result of Img_J, where the value 255 indicates the missing area, and the value 0 is the clear area.
 for Im=1:2
