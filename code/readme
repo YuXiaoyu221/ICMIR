@@ -1,0 +1,7 @@
+# The code of the image cloud removal method based on minimum gradient constraint
+matlab vision
+
+run the "main.m", you can change the path to your data
+
+if the code is used and helpful for your research, please cite :
+https://github.com/YuXiaoyu221/CR_MGC, Xiaoyu Yu
