@@ -1,4 +1,3 @@
-# Isophote_in_Image_Restoration
+# Isophote_in_Multi-Image_Restoration
 
-Strength of Isophote Constraint on Information Reconstruction for Optical Satellite Data
-
+A fast multi-temporal optical data reconstruction method based on isophote constraint 
